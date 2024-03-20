@@ -1,0 +1,4 @@
+database = xampp/ mysql
+
+cut & copy the folder in xampp/data to work
+
